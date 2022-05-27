@@ -1,5 +1,7 @@
 # Bash Setup
 
+Bash, which is an acronym for Bourne-Again Shell, is a Unix shell and command language.  If you have never worked at the command line before, you may want to check out [this blog post](https://www.tenderisthebyte.com/blog/2019/12/15/beginning-bioinformatics-command-line-terminal/), especially the section about graphical vs. command line interfaces.
+
 Please scroll to find your operating system for specific setup instructions.
 
 ## Windows
@@ -12,7 +14,7 @@ If you are running Windows 10 version 2004 and higher (Build 19041 and higher) o
 
 **Option 2:** Git for Windows
 
-In addition to providing you with access to Git, Git for Windows also comes with a Bash emulation. You can download the installer [here](https://gitforwindows.org) and there are further instructions[here](https://carpentries.github.io/workshop-template/#shell) if you need them.
+In addition to providing you with access to Git, Git for Windows also comes with a Bash emulation. You can download the installer [here](https://gitforwindows.org) and there are further instructions [here](https://carpentries.github.io/workshop-template/#shell) if you need them.
 
 
 ## MacOS
@@ -27,7 +29,7 @@ Or by using the Spotlight search feature:
 
 ![Spotlight search for terminal](./Terminal_spotlight_search_screenshot.png)
 
-Make sure that you can find and open your terminal!
+Make sure that you can find and open your terminal!  If you're curious about your default shell, it should be listed in the top bar of the terminal.  Alternatively, type `echo $SHELL` in a terminal and press the Enter key.  If the message printed does not end with `/bash` then your default is something else and you can run Bash by typing bash.  However, zsh is also acceptable for this tutorial.
 
 ## Linux
 
