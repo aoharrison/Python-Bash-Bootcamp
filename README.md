@@ -4,6 +4,15 @@ Welcome to the Bash/Python Bootcamp!
 
 This bootcamp is meant to prepare participants for the "Practical AI/ML for Computational Biology and Chemistry" Workshop to be held at the University of Delaware from June 13-17.  The bootcamp covers Bash and Python skills and topics critical to understanding and performing modern data analysis.  
 
+# People
+
+Amelia O. Harrison, Course Director
+
+Manju Anandakrishnan, Teaching Assistant
+Michael St. Antoine, Teaching Assistant
+Vanessa Richards, Teaching Assistant
+Rene Hoover, Teaching Assistant
+
 # Sponsors
 
 The bootcamp is hosted by the UD Chemistry-Biology Interface Program and Center for Bioinformatics and Computational Biology. This bootcamp is offered free of charge with support from the NIH National Institute for General Medical Sciences (T32GM133395-03S1).
