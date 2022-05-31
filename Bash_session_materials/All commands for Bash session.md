@@ -233,13 +233,21 @@ less central_manhattan_squirrels.txt
 
 # each individual file has headers, but we only want one header in the new file
 head -1 madison_square_park_squirrels.txt
-tail -n +2 madison_square_park_squirrels.txt
 
 # both print to standard out, we'll use it to our advantage
 # overwrites the file
 head -1 madison_square_park_squirrels.txt > central_manhattan_squirrels.txt
 
 cat central_manhattan_squirrels.txt
+
+# let's talk (briefly) about sed
+man sed
+
+sed '1d' madison_square_park_squirrels.txt
+
+sed '1d' madison_square_park_squirrels.txt | wc -l
+
+wc -l madison_square_park.txt
 
 # make sure not to overwrite the file
 for f in  *_park_squirrels.txt; do sed '1d' "$f" >> central_manhattan_squirrels.txt; done
@@ -314,26 +322,79 @@ Write a script to count the number of squirrels in each park (in the individual 
 
 Provide the script in case there is trouble with nano.  Windows users can also try Notepad as a backup.
 
-```bash
-nano  combine_squirrel_data.sh
+Write a script that makes a new directory, makes a new file containing all of the squirrel data and only one header row, and answers these three questions using the new :
 
-# body of script
+1. How many total squirrels were observed in NYC parks?
+2. How many squirrels were observed in each park?
+3. How many squirrels with each color combination (primary color + highlights) were observed?
+
+Make the file and enter the editor.
+
+```bash
+touch squirrel_script.sh
+
+ls
+
+nano squirrel_script.sh
+```
+
+Script contents
+
+```bash
 #!/bin/bash
 
 ## make a new directory to store the data
 mkdir combined_squirrel_data
 
-## cat the smaller files together
-cat squirrel_data/*/*_park_squirrels.txt > combined_squirrel_data/all_squirrels_combined.txt
+## combine the smaller files
+head -1 squirrel_data/central_manhattan/madison_square_park_squirrels.txt > combined_squirrel_data/all_squirrels_combined.txt
 
-## count the number of squirrels in the new file
+for f in squirrel_data/*/*_park_squirrels.txt
+do
+  sed '1d' "$f" >> combined_squirrel_data/all_squirrels_combined.txt
+done
+
+## total number of squirrels counted (plus one for the header)
 wc -l combined_squirrel_data/all_squirrels_combined.txt
 
-## count the number of squirrels from each park
-cut -f3 combined_squirrel_data/all_park_squirrels.txt | sort | uniq -c
+## number of each squirrels observed in each park
+cut -f3 combined_squirrel_data/all_squirrels_combined.txt | sort | uniq -c
 
-## How many squirrels of each color combination were observed?
-cut -f6-7 combined_squirrel_data/all_park_squirrels.txt | sort | uniq -c
+## number of squirrels of each color combination
+cut -f6-7 combined_squirrel_data/all_squirrels_combined.txt | sort | uniq -c
 ```
 
-Same script but with variables
+Same script but prettier and more accurate
+
+```bash
+#!/bin/bash
+
+## make a new directory to store the data
+mkdir combined_squirrel_data
+
+## make a file containing squirrel data from all parks
+head -1 squirrel_data/central_manhattan/madison_square_park_squirrels.txt > combined_squirrel_data/all_squirrels_combined.txt
+
+for f in squirrel_data/*/*_park_squirrels.txt
+do
+  sed '1d' "$f" >> combined_squirrel_data/all_squirrels_combined.txt
+done
+
+## count the number of squirrels in the new file
+echo "----------------------------------------------------------------------"
+printf "1. How many total squirrels were observed in NYC parks?\n\n"
+printf "Total number of squirrels observed in NYC parks:\n\n"
+sed '1d' combined_squirrel_data/all_squirrels_combined.txt | wc -l
+
+## count the number of squirrels from each park
+echo "----------------------------------------------------------------------"
+printf "2. How many squirrels were observed in each park?\n\n"
+printf "The number of squirrels in each park:\n\n"
+sed '1d' combined_squirrel_data/all_squirrels_combined.txt | cut -f3 | sort | uniq -c
+
+## How many squirrels of each color combination were observed?
+echo "----------------------------------------------------------------------"
+printf "3. How many squirrels with each color combination (primary color + highlights) were observed?\n\n"
+printf "The number of squirrels observed with each color combination:\n\n"
+sed '1d' combined_squirrel_data/all_squirrels_combined.txt |cut -f6-7 | sort | uniq -c
+```
