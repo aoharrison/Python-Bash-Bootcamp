@@ -1,0 +1,5 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+327	LOWER MANHATTAN	C	Columbus Park	16	C-16-01	Gray	Cinnamon	Cinnamon streak down back	Ground Plane			Climbing, Eating, Foraging	Approaches	Boy, Alert â€” lots of basketball close by	40.714867	-74.000236
+328	LOWER MANHATTAN	C	Columbus Park	16	C-16-02	Gray	Cinnamon		Ground Plane			Running, Foraging			40.7159	-74.000167
+329	LOWER MANHATTAN	C	Columbus Park	16	C-16-03	Gray			Above Ground	25			Indifferent	Nibbling on branches	40.714875	-74.000346
+330	LOWER MANHATTAN	C	Columbus Park	16	C-16-04	Gray			Above Ground	35		Climbing	Approaches	Patchy â€”Â bald spots	40.715779	-73.999887

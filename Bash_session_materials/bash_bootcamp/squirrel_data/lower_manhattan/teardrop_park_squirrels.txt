@@ -1,0 +1,2 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+LOWER MANHATTAN	C	Teardrop Park	18	C-18-01	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running, Eating (or pretending to eat)	Runs From	Ran up tree and down tree, tail vibration â€” not a flag or twitch, kuk sound	40.716335	-74.015612

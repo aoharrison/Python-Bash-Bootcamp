@@ -1,0 +1,17 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-01	Gray	Cinnamon	NA	Above Ground, Specific Location	2	in tree	Chasing, Climbing	Watches us from tree	#1 and #2 chasing each other	40.841178	-73.935482
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-02	Gray	White	NA	Above Ground, Specific Location	2	in tree	Chasing, Climbing, Eating	Runs From	#1 and #2 chasing each other	40.841204	-73.935434
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-03	Gray	White	NA	Above Ground, Specific Location	2	in tree	Running	NA	NA	40.841212	-73.934827
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-04	Gray	White	NA	Above Ground	3	NA	Climbing	NA	NA	40.841217	-73.934714
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-05	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	Runs From	#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground	40.841359	-73.934339
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-06	Gray	Gray	NA	Above Ground, Specific Location	2	in tree	Running	Runs From, watchful	#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground	40.841375	-73.934242
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-07	Gray	Cinnamon	NA	Above Ground, Specific Location	< 1	on log	Running	Runs From	#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground	40.841375	-73.934242
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-08	Gray	Cinnamon	NA	Above Ground, Specific Location	3	in wall	Running, Chasing, Climbing	Runs From	#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!	40.842308	-73.933061
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-09	Gray	Cinnamon	NA	Above Ground, Specific Location	3	in wall	NA	NA	#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!	40.842401	-73.932986
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-10	Gray	Cinnamon	NA	Ground Plane, Above Ground	18	Started on ground, climbed 6â€“18 ft.	Climbing, Foraging	Watching us from tree - very interested in us	Lots of garbage, near #8 & #9	40.842511	-73.932916
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-11	Gray	Cinnamon	NA	Above Ground	4	NA	Vocalization at us	Approaches, watching us	NA	40.842673	-73.932793
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-12	Gray	White	NA	Ground Plane	NA	NA	Running, Foraging	Runs From	NA	40.842795	-73.933002
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-13	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	NA	NA	NA	NA
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-14	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running, Eating	Runs From, watches us in short tree	Loud sparrows in tree	40.842327	-73.934269
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-15	Gray	Cinnamon	NA	Above Ground, Specific Location	9	in tree	Jumped to building	NA	NA	40.842359	-73.934177
+UPPER MANHATTAN	A	Highbridge Park	3	A-03-16	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent	NA	40.842769	-73.934478

@@ -1,0 +1,8 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+LOWER MANHATTAN	C	Seward Park	14	C-14-01	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Eating	Runs From	NA	40.715415	-73.989567
+LOWER MANHATTAN	C	Seward Park	14	C-14-02	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating	Indifferent	Bushier and plump, big tail	40.715484	-73.989299
+LOWER MANHATTAN	C	Seward Park	14	C-14-03	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Runs From	NA	40.714749	-73.989577
+LOWER MANHATTAN	C	Seward Park	14	C-14-04	Gray	Cinnamon	NA	Ground Plane	NA	NA	Climbing	Approaches	Looking to us for food! Climbed tree when we did not have any to give.	40.71468	-73.989776
+LOWER MANHATTAN	C	Seward Park	14	C-14-05	Gray	Cinnamon	Cinnamon tail	Ground Plane, Above Ground	9	NA	Climbing, Foraging	Approaches	Skinny tail, lots of digging, found an acorn and is eating	40.714846	-73.989679
+LOWER MANHATTAN	C	Seward Park	14	C-14-06	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running, Chasing	Indifferent	Medium bushy, maybe a little younger, agile, sprightly	40.715033	-73.989609
+LOWER MANHATTAN	C	Seward Park	14	C-14-07	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running, Chasing	Indifferent	Too quick	40.715208	-73.989534

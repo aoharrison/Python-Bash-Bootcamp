@@ -1,0 +1,26 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-01	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	Found nut and moved into tree	40.733753	-73.983682
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-02	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.733648	-73.983483
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-03	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.733631	-73.983419
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-04	Gray	Cinnamon	NA	Ground Plane	NA	NA	Climbing	Runs From	NA	40.733546	-73.983263
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-05	Gray	Cinnamon	NA	Above Ground	30	NA	Climbing	NA	NA	40.733591	-73.983263
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-06	Gray	Cinnamon	NA	Above Ground	15	NA	Climbing, Eating	Indifferent	NA	40.733648	-73.984294
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-07	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Approaches	Curious, thinks we have food	40.733737	-73.98438
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-08	Gray	Cinnamon	NA	Ground Plane	NA	NA	Chasing	Indifferent	Being chased by #9	40.733501	-73.984417
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-09	Gray	Cinnamon	NA	Ground Plane	NA	NA	Chasing	Indifferent	Chasing #8	40.733575	-73.984391
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-10	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Approaches	Expected food	40.733506	-73.984553
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-11	Gray	Cinnamon	NA	Above Ground	20	NA	Climbing	Indifferent	Juvenile? Playing with #12 in tree	40.733619	-73.984708
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-12	Gray	Cinnamon	NA	Above Ground	20	NA	Chasing	Indifferent	Juvenile? Playing with #11 in tree	40.733648	-73.984638
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-13	Gray	Cinnamon	NA	Above Ground	40	NA	Eating	NA	NA	40.733737	-73.984644
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-14	Black	Cinnamon	NA	Above Ground	10	NA	Eating	Approaches	NA	40.733932	-73.984612
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-15	Black	Cinnamon	NA	Above Ground	30	NA	Eating	NA	Far away	40.734014	-73.984461
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-16	Black	Cinnamon	NA	Above Ground, Specific Location	60	in tree	NA	NA	NA	40.734221	-73.984397
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-17	Gray	Cinnamon	NA	Above Ground, Specific Location	15	in tree	Eating	NA	NA	40.734083	-73.984322
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-18	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.73403	-73.984199
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-19	Black	Cinnamon	NA	Above Ground, Specific Location	40	in tree	Grooming	NA	NA	40.734204	-73.984242
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-20	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.734314	-73.984231
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-21	Gray	Cinnamon	NA	Above Ground, Specific Location	30	in tree	NA	NA	NA	40.734261	-73.984284
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-22	Gray	Cinnamon	NA	Above Ground, Specific Location	30	in tree	NA	NA	NA	40.734144	-73.984059
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-23	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.734335	-73.984038
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-24	Black	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.734383	-73.984118
+CENTRAL MANHATTAN	B	Stuyvesant Square Park	9	B-09-25	Black	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.734356	-73.984062

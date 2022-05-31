@@ -1,0 +1,29 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-01	Gray	Gray	NA	Ground Plane	NA	NA	Running, up tree	Runs From	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-02	Gray	Gray	NA	Ground Plane	NA	NA	Running, up tree	Runs From	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-03	Gray	Gray	NA	Ground Plane	NA	NA	Running, up tree	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-04	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-05	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	NA	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-06	Gray	Gray	NA	Above Ground	15	NA	Sitting on branch	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-07	Gray	Gray	NA	Ground Plane	NA	NA	Running, up tree	Indifferent	Forever wild section	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-08	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-09	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-10	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-11	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-12	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-13	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-14	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-15	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-16	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-17	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Okay with people	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-18	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-19	Gray	Gray	NA	Above Ground, Specific Location	NA	Tree	Running	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-20	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-21	Gray	Gray	NA	Ground Plane	NA	at tree	NA	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-22	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	NA	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-23	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	NA	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-24	Gray	Gray	NA	NA	NA	NA	Sitting at attention	NA	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-25	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-26	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-27	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+UPPER MANHATTAN	A	Riverside Park (Section Near Grant Memorial)	5	A-05-28	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
