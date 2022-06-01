@@ -1,0 +1,12 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-01	Gray	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent	Scar on forehead	40.74145	-73.987884
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-02	Gray	NA	NA	Above Ground, Specific Location	30	in a tree	Sitting	NA	NA	40.742255	-73.987433
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-03	Gray	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.742556	-73.986971
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-04	Gray	NA	NA	Above Ground, Specific Location	10	in tree	Resting in tree	NA	NA	40.742792	-73.987046
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-05	Gray	NA	NA	Ground Plane, Specific Location	NA	Farragut Lawn	Running	Indifferent	Many pigeons lounging on lawn, tourist taking picture	40.74288	-73.987663
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-06	Gray	NA	NA	Above Ground, Specific Location	15	in old tree (oval lawn)	Sitting	Indifferent	#6 & #7 in same tree	40.742421	-73.98808
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-07	Gray	NA	NA	Above Ground, Specific Location	20	in old tree (oval lawn)	Sitting	Indifferent	#6 & #7 in same tree - In general, visitors/people are trying to coax squirrels and take pictures. They are delighted to see squirrels.	40.742421	-73.98808
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-08	Gray	Cinnamon	NA	Ground Plane, Specific Location	NA	base of tree	Foraging	Indifferent	Dog owners encouraging dogs to chase squirrels	40.742807	-73.988435
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-09	Gray	NA	NA	Ground Plane, Specific Location	NA	base of tree	Foraging	Indifferent	Ran from base of tree to lawn about 20 feet away in search of food	40.741528	-73.988324
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-10	Gray	NA	NA	Above Ground, Specific Location	10	in tree	Climbing, Foraging	Indifferent	First spotted in tree, then climbed down. Squirrel was small in stature.	40.741805	-73.988448
+CENTRAL MANHATTAN	B	Madison Square Park	7	B-07-11	Gray	NA	NA	Ground Plane, Above Ground	1	on bench	Running, Climbing, Foraging	Indifferent	First seen on bench. Then jumped to ground, ran across path and onto lawn in search of food.	40.741862	-73.988797

@@ -1,0 +1,17 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-01	Gray	NA	NA	Above Ground	20	NA	Running, Climbing, Eating	Runs From	Frantically zig-zagging whilst clutching a mid-afternoon snack	40.712159	-73.979415
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-02	Gray	NA	NA	NA	NA	NA	Eating, Foraging	Indifferent	Digging in leaves carelessly	40.712199	-73.979519
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-03	Gray	NA	NA	NA	NA	NA	NA	NA	Multiple nut dives into the leaves; mostly successful	40.712118	-73.97968
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-04	Gray	Cinnamon	NA	NA	NA	NA	NA	NA	Playing tag with #5	40.712179	-73.979776
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-05	Gray	Cinnamon	NA	NA	NA	NA	NA	NA	Playing tag with #4	40.712216	-73.979857
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-06	Gray	NA	NA	Above Ground	15	NA	Ear scratching	NA	NA	40.712224	-73.979669
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-07	Gray	NA	NA	Above Ground	25	NA	NA	NA	NA	40.71224	-73.979744
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-08	Gray	NA	NA	NA	NA	NA	Frolicking	NA	Leaping from branch to branch	40.711927	-73.979658
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-09	Gray	Cinnamon	NA	Above Ground	8	NA	Running, Climbing, Scratching	NA	Meandering among the branches	40.711866	-73.97976
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-10	Gray	Gray	NA	Above Ground	8	NA	Running, Climbing	Approaches	Came by to make sure we had proper Sighter buttons, looks like a Gerald	40.71174	-73.980539
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-11	Gray	White	NA	Specific Location	NA	Handrail	Posing	Approaches	Timidly approached but ran from a passing pooch	40.711442	-73.978354
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-12	Gray	NA	NA	Above Ground	15	NA	Guarding	Defensive	Very upset that we spotted him accessing his tree-hole stash	40.711316	-73.978343
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-13	Gray	Black	NA	Ground Plane, Above Ground	30	NA	Running, Chasing, Climbing	NA	#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog	40.711417	73.977767
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-14	Gray	Black	NA	Ground Plane, Above Ground	30	NA	Running, Chasing, Climbing	NA	#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog	40.711421	-73.977692
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-15	Gray	Black	NA	Ground Plane, Above Ground	30	NA	Running, Chasing, Climbing	NA	#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog	40.711409	-73.977719
+LOWER MANHATTAN	C	Corlears Hook Park	15	C-15-16	Cinnamon	NA	NA	Above Ground	20â€“30	NA	Foraging	Indifferent	So curious! A unique color and thirst for the unknown.	40.711303	-73.97759

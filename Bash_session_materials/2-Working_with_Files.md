@@ -117,8 +117,8 @@ While we're here, I've noticed that one of the files has a different naming sche
 bash_bootcamp $ cd squirrel_data/lower_manhattan
 lower_manhattan $ head -3 columbus_park.txt
 Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
-327	LOWER MANHATTAN	C	Columbus Park	16	C-16-01	Gray	Cinnamon	Cinnamon streak down back	Ground Plane		Climbing, Eating, Foraging	Approaches	Boy, Alert ��� lots of basketball close by	40.714867	-74.000236
-328	LOWER MANHATTAN	C	Columbus Park	16	C-16-02	Gray	Cinnamon		Ground Plane			Running, Foraging			40.7159	-74.000167
+LOWER MANHATTAN	C	Columbus Park	16	C-16-01	Gray	Cinnamon	Cinnamon streak down back	Ground Plane			Climbing, Eating, Foraging	Approaches	Boy, Alert lots of basketball close by	40.714867	-74.000236
+LOWER MANHATTAN	C	Columbus Park	16	C-16-02	Gray	Cinnamon		Ground Plane			Running, Foraging			40.7159	-74.000167
 ```
 
 Yep, it looks like `columbus_park.txt` contains squirrel data just like the other files.  We should rename it so we don't get confused again.  It turns out that `mv` works for this as well.  All you need to do is provide the current name of the file and then the new name:

@@ -1,0 +1,52 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-01	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	Sun	40.730703	-73.995821
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-02	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.730638	-73.995784
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-03	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.730528	-73.995891
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-04	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.730394	-73.996009
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-05	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730341	-73.996052
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-06	Gray	NA	NA	NA	NA	NA	NA	Indifferent	People eating at bench with dog	40.7303	-73.996106
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-07	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730247	-73.996175
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-08	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730231	-73.996138
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-09	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.730223	-73.996132
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-10	Gray	NA	NA	NA	NA	NA	NA	Indifferent	Shady	40.730077	-73.996277
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-11	Gray	Gray	NA	Above Ground	20	NA	Nesting	Indifferent	In squirrel house (pic). Someone is trying to feed squirrel in house.	NA	NA
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-12	Gray	Gray	NA	Above Ground	25	NA	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-13	Gray	NA	NA	Ground Plane	NA	NA	Chasing	Indifferent	Chasing #15	NA	NA
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-14	Gray	NA	NA	Above Ground, Specific Location	15	in tree	Eating	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-15	Gray	NA	NA	NA	NA	NA	Chasing	Indifferent	Being chased by #13	40.729858	-73.996843
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-16	Gray	NA	NA	NA	NA	NA	Chasing	Indifferent	NA	40.72985	-73.996778
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-17	Gray	NA	NA	NA	NA	NA	Chasing	Indifferent	NA	40.729822	-73.996816
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-18	Gray	NA	NA	NA	NA	NA	Chasing	Indifferent	NA	40.729809	-73.996762
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-19	Gray	NA	NA	NA	NA	NA	Chasing	Indifferent	NA	40.729939	-73.997068
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-20	Gray	NA	NA	Ground Plane	NA	NA	NA	Indifferent	NA	40.729976	-73.997154
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-21	Gray	NA	NA	Ground Plane	NA	NA	NA	Indifferent	NA	40.72996	-73.997079
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-22	Gray	NA	NA	Ground Plane	NA	NA	NA	Indifferent	NA	40.729927	-73.997036
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-23	Gray	NA	NA	Ground Plane	NA	NA	NA	Indifferent	NA	40.729988	-73.997106
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-24	Gray	NA	NA	Ground Plane	NA	NA	NA	Indifferent	NA	40.72998	-73.997031
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-25	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730318	-73.997213
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-26	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730301	-73.997251
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-27	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730334	-73.997589
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-28	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730411	-73.997589
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-29	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730395	-73.997535
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-30	Gray	NA	NA	Above Ground, Specific Location	NA	tree	NA	Indifferent	NA	40.730411	-73.997766
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-31	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.731031	-73.999122
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-32	Gray	NA	NA	Above Ground, Specific Location	NA	in tree high	NA	Indifferent	NA	40.731504	-73.998977
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-33	Gray	NA	NA	Above Ground, Specific Location	NA	in tree high	NA	Indifferent	NA	40.731548	-73.998842
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-34	Gray	NA	NA	Above Ground, Specific Location	NA	in tree high	NA	Indifferent	NA	40.731608	-73.998928
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-35	Gray	NA	NA	Above Ground, Specific Location	NA	in tree high	NA	Indifferent	NA	40.731503	-73.999014
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-36	Gray	NA	NA	Above Ground, Specific Location	NA	tree canopy, low down	NA	Indifferent	NA	40.731552	-73.998788
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-37	Gray	NA	NA	Above Ground, Specific Location	NA	tree high	NA	Indifferent	NA	40.731952	-73.998647
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-38	Gray	NA	NA	Above Ground, Specific Location	NA	tree high	NA	Indifferent	NA	40.731936	-73.998598
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-39	Gray	NA	NA	Above Ground, Specific Location	NA	tree low	NA	Indifferent	NA	40.732001	-73.998491
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-40	Gray	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent	Busy area	40.731974	-73.998482
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-41	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.731861	-73.998122
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-42	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.731804	-73.997999
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-43	Gray	NA	NA	Above Ground, Specific Location	NA	tree	NA	Indifferent	NA	40.731747	-73.997859
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-44	Gray	NA	NA	Above Ground, Specific Location	NA	tree	NA	Indifferent	NA	40.731665	-73.997747
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-45	Gray	NA	NA	Above Ground, Specific Location	NA	tree	NA	Indifferent	NA	40.731548	-73.99758
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-46	Gray	NA	NA	Above Ground, Specific Location	NA	tree high	NA	Indifferent	NA	40.731389	-73.997231
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-47	Gray	NA	NA	NA	NA	NA	NA	Indifferent	Sun	40.7312	-73.996805
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-48	Gray	NA	NA	Above Ground, Specific Location	NA	small tree	NA	Indifferent	NA	40.731119	-73.996655
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-49	Gray	NA	NA	Specific Location	NA	on bench	NA	Indifferent	NA	40.731103	-73.996601
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-50	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.73092	-73.996242
+CENTRAL MANHATTAN	B	Washington Square Park	10	B-10-51	Gray	NA	NA	NA	NA	NA	NA	Indifferent	NA	40.730782	-73.996017

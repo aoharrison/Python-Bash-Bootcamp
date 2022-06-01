@@ -1,0 +1,15 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-01	Gray	Cinnamon	NA	Above Ground	12	NA	battery	Staring	Looks cold, not moving, lethargic	40.725308	-73.942789
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-02	Gray	Cinnamon	White underbelly	Above Ground	< 1	NA	Climbing, Foraging, Self-cleaning	Indifferent	NA	40.725511	-73.943609
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-03	Gray	Cinnamon	NA	Ground Plane	NA	NA	Chasing	Approaches	NA	40.725511	-73.943448
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-04	Gray	NA	NA	Above Ground	15	NA	Climbing	NA	NA	40.725478	-73.944113
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-05	Gray	NA	NA	Above Ground	30	NA	Eating	NA	NA	40.725527	-73.943974
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-06	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating	Approaches	We fed him!	40.725397	-73.944124
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-07	Gray	NA	NA	Above Ground	30	NA	Climbing	NA	NA	40.725413	-73.943984
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-08	Gray	NA	NA	Ground Plane	NA	NA	Climbing (down)	NA	NA	40.724755	-73.944006
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-09	Gray	NA	NA	Ground Plane	NA	NA	Climbing (down)	NA	NA	40.723974	-73.943845
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-10	Gray	NA	NA	Ground Plane	NA	NA	Climbing (down)	NA	NA	40.723462	-73.943952
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-11	Gray	NA	NA	Ground Plane	NA	NA	Climbing (down)	NA	NA	40.725372	-73.943652
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-12	Gray	White	NA	Above Ground, Specific Location	15	by playground	Sitting	Indifferent	NA	40.725364	-73.943512
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-13	Gray	Gray	NA	Ground Plane	NA	at Nassau (Avenue) / Henry (Street)	Running	Runs From	NA	40.725397	-73.943297
+BROOKLYN	D	Msgr. McGolrick Park	21	D-21-14	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.725197	-73.943273

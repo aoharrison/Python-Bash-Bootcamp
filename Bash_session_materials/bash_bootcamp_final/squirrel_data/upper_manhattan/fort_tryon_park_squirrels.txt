@@ -1,0 +1,13 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-01	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.85941	-73.933936
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-02	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	Looks skinny	40.859436	-73.933937
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-03	Gray	White	NA	Ground Plane	NA	NA	Eating, Digging something	Indifferent	NA	40.859416	-73.933894
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-04	Gray	White	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.859418	-73.933895
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-05	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running, Eating	Indifferent	She left food	40.859493	-73.93359
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-06	Gray	Cinnamon	NA	Ground Plane	NA	NA	Climbing	Indifferent	NA	40.860825	-73.932871
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-07	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.860225	-73.933143
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-08	Black	Gray	NA	Above Ground	10	NA	Climbing	Runs From	NA	40.859965	-73.933412
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-09	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.859892	-73.933326
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-10	Gray	White	NA	Ground Plane	NA	NA	Eating, Digging	Indifferent	NA	40.859636	-73.933717
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-11	Gray	Black	NA	Ground Plane	NA	NA	Eating, Digging	Indifferent	was intimidated by a dog	40.859576	-73.933738
+UPPER MANHATTAN	A	Fort Tryon Park	1	A-01-12	Gray	White	NA	Ground Plane	NA	NA	Running	Runs From	NA	40.859989	-73.934544

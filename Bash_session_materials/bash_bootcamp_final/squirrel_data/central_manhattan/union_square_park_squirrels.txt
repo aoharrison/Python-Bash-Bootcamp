@@ -1,0 +1,17 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-01	Cinnamon	Cinnamon	NA	Ground Plane	NA	NA	Climbing	Friendly	NA	40.735981	-73.99062
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-02	Gray	Gray	NA	Ground Plane	NA	NA	Running, Eating, Foraging	Indifferent	NA	40.735847	-73.990115
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-03	Cinnamon	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.735896	-73.99041
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-04	Gray	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.73579	-73.990738
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-05	Gray	NA	NA	Ground Plane	NA	NA	Digging	Indifferent	NA	40.735941	-73.99063
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-06	Gray	NA	NA	Above Ground, Specific Location	NA	in tree	Climbing	NA	NA	40.73566	-73.990351
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-07	Gray	Cinnamon	Cinnamon tail	Above Ground, Specific Location	NA	in tree	Climbing, Eating	NA	Baby smaller	40.735636	-73.990426
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-08	Gray	Black	NA	NA	NA	NA	Climbing	NA	Baby smaller	40.73566	-73.990351
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-09	Gray	NA	NA	NA	NA	NA	Running, Digging	Runs From	NA	40.735587	-73.990367
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-10	Gray	NA	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent, Staring	NA	40.73542	-73.990453
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-11	Cinnamon	NA	NA	Ground Plane	NA	NA	Foraging	Indifferent, Runs From (kids)	Ran away from kids and climbed up the tree	40.735514	-73.99033
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-12	Gray	NA	NA	Ground Plane	NA	NA	Eating, Foraging	NA	Big	40.735945	-73.990201
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-13	Cinnamon	NA	NA	NA	NA	NA	Foraging	NA	Big	40.735947	-73.99023
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-14	Gray	NA	NA	Ground Plane	NA	NA	Eating, Foraging	NA	Big and chubby	40.73604	-73.98966
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-15	Gray	NA	NA	Ground Plane	NA	NA	Eating, Foraging	NA	NA	40.73618	-73.990683
+CENTRAL MANHATTAN	B	Union Square Park	8	B-08-16	Cinnamon	NA	NA	Ground Plane	NA	NA	Eating, Foraging	NA	NA	40.736298	-73.990559

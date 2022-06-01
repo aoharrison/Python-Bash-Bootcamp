@@ -1,0 +1,45 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+BROOKLYN	D	McCarren Park	22	D-22-01	Cinnamon	White	NA	Ground Plane	NA	NA	Eating	Indifferent	NA	40.72167	-73.953364
+BROOKLYN	D	McCarren Park	22	D-22-02	Gray	White	NA	Ground Plane	NA	NA	Eating	Approaches	NA	40.721768	-73.953192
+BROOKLYN	D	McCarren Park	22	D-22-03	Gray	White	NA	Ground Plane	NA	NA	Running	Runs From	Ran in from baseball field	40.721662	-73.953278
+BROOKLYN	D	McCarren Park	22	D-22-04	Gray	Cinnamon	NA	Above Ground	NA	NA	Climbing	Runs From	NA	40.721857	-73.953139
+BROOKLYN	D	McCarren Park	22	D-22-05	Cinnamon	NA	NA	Ground Plane	NA	NA	Running	Approaches	Running around	40.721941	-73.952947
+BROOKLYN	D	McCarren Park	22	D-22-06	Cinnamon	NA	NA	Above Ground	NA	NA	Climbing	Approaches	Perched up, came close to us!	40.722039	-73.952796
+BROOKLYN	D	McCarren Park	22	D-22-07	Cinnamon	NA	NA	Ground Plane	NA	NA	Chasing	Approaches	Skinny tail, was in the baseball field	40.72147	-73.952857
+BROOKLYN	D	McCarren Park	22	D-22-08	Cinnamon	White	NA	Ground Plane	NA	NA	Running	Runs From	NA	40.721713	-73.95305
+BROOKLYN	D	McCarren Park	22	D-22-09	Gray	Gray	NA	Ground Plane, Specific Location	NA	In a trash and metal heap next to baseball field	Eating, Foraging	Indifferent	NA	40.721933	-73.953147
+BROOKLYN	D	McCarren Park	22	D-22-10	Gray	Cinnamon, White	NA	Above Ground, Specific Location	12	in tree	Climbing	Runs From	Ran up a tree	40.722283	-73.953115
+BROOKLYN	D	McCarren Park	22	D-22-11	Gray	Gray	NA	Ground Plane	NA	NA	Running	Runs From	Ran out of park	40.722698	-73.953198
+BROOKLYN	D	McCarren Park	22	D-22-12	Gray	White	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent	Birds walking nearby	40.722819	-73.952095
+BROOKLYN	D	McCarren Park	22	D-22-13	Gray	White	NA	Above Ground	NA	NA	Climbing	Indifferent	Ran from ground to tree	40.722966	-73.951987
+BROOKLYN	D	McCarren Park	22	D-22-14	Cinnamon	White	NA	Above Ground, Specific Location	3	in short tree	Climbing, Sitting in short tree	Indifferent	NA	40.723136	-73.951794
+BROOKLYN	D	McCarren Park	22	D-22-15	Gray	White	NA	Above Ground, Specific Location	NA	in tree	Eating	Indifferent	NA	40.723071	-73.951697
+BROOKLYN	D	McCarren Park	22	D-22-16	Cinnamon	Gray	NA	Ground Plane, Specific Location	NA	below park benches	Foraging, Jumping	Indifferent	Great jumper	40.723006	-73.951655
+BROOKLYN	D	McCarren Park	22	D-22-17	Gray	Cinnamon, White	NA	Above Ground	9	NA	Chilling	Indifferent	Perched on branch, just hanging out	40.722962	-73.951752
+BROOKLYN	D	McCarren Park	22	D-22-18	Cinnamon	Cinnamon	NA	Above Ground	14	NA	Hanging	Indifferent	Perched on branch	40.722603	-73.951449
+BROOKLYN	D	McCarren Park	22	D-22-19	Cinnamon	Gray, White	NA	Above Ground	20	NA	Running, Climbing	NA	Very small, climbed from one tree to another	40.721247	-73.951609
+BROOKLYN	D	McCarren Park	22	D-22-20	Gray	Cinnamon, White	NA	Above Ground	75	NA	Climbing	Indifferent	Small, on tree on branch, two others below it	40.720606	-73.952769
+BROOKLYN	D	McCarren Park	22	D-22-21	Gray	Cinnamon, White	NA	Above Ground	15	NA	Chasing, Climbing	Indifferent	Started in middle of tree, started chasing others up in branches, jumped from branch to branch	40.720582	-73.952694
+BROOKLYN	D	McCarren Park	22	D-22-22	Gray	Cinnamon, White	NA	Above Ground	20	NA	Climbing	Indifferent	One of three together on a tree	40.720533	-73.95272
+BROOKLYN	D	McCarren Park	22	D-22-23	Gray	White	NA	Above Ground	20	NA	Climbing	Indifferent	Jumped from one tree to next	40.720488	-73.952806
+BROOKLYN	D	McCarren Park	22	D-22-24	Gray	White	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent	Dog chased it up a tree	40.720458	-73.954244
+BROOKLYN	D	McCarren Park	22	D-22-25	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Foraging	Skittish to humans	NA	40.720018	-73.953442
+BROOKLYN	D	McCarren Park	22	D-22-26	Gray	White	NA	Ground Plane	NA	NA	Running, Foraging	Indifferent	Fast	40.720026	-73.953652
+BROOKLYN	D	McCarren Park	22	D-22-27	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating (bread crumbs), Foraging	Indifferent	Near a lot of little birds	40.719777	-73.952774
+BROOKLYN	D	McCarren Park	22	D-22-28	Gray	White	NA	Ground Plane	NA	NA	Running	Indifferent	Running against fence	40.720114	-73.952768
+BROOKLYN	D	McCarren Park	22	D-22-29	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Hanging out	Runs From	Standing at base of tree, then climbed up	40.719944	-73.952505
+BROOKLYN	D	McCarren Park	22	D-22-30	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.720448	-73.952521
+BROOKLYN	D	McCarren Park	22	D-22-31	Cinnamon	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	Walking around bushes	40.720412	-73.952353
+BROOKLYN	D	McCarren Park	22	D-22-32	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Foraging	Indifferent	A little on the robust side	40.720372	-73.952326
+BROOKLYN	D	McCarren Park	22	D-22-33	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	Busy digging for something	40.720749	-73.951891
+BROOKLYN	D	McCarren Park	22	D-22-34	Cinnamon	Cinnamon	NA	Above Ground	15	NA	Sleeping (Dead?)	Indifferent	It almost looks dead. Eyes open, curled up into itself in a nook in a tree with #35.	40.721181	-73.951255
+BROOKLYN	D	McCarren Park	22	D-22-35	Cinnamon	Cinnamon	NA	Above Ground	15	NA	Sleeping (Dead?)	NA	Curled up together with #34. One big furry ball of squirrel.	40.721181	-73.951255
+BROOKLYN	D	McCarren Park	22	D-22-36	Cinnamon	Gray, Cinnamon	Reddish tail	Ground Plane	NA	NA	Eating (tortilla/chip)	NA	Pretty fat	40.72112	-73.95104
+BROOKLYN	D	McCarren Park	22	D-22-37	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	Turning around, trying to eat	40.721315	-73.950943
+BROOKLYN	D	McCarren Park	22	D-22-38	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Eating	NA	Sitting next to #39 and eating	40.721258	-73.950799
+BROOKLYN	D	McCarren Park	22	D-22-39	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Eating	NA	Sitting next to #38 and eating	40.721217	-73.95077
+BROOKLYN	D	McCarren Park	22	D-22-40	Cinnamon	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	Fluffy	40.721173	-73.950781
+BROOKLYN	D	McCarren Park	22	D-22-41	Cinnamon	Cinnamon	NA	Above Ground	NA	NA	Running, Foraging	Indifferent	Skinny	40.721161	-73.950732
+BROOKLYN	D	McCarren Park	22	D-22-42	Gray	Gray	NA	Above Ground	NA	NA	Climbing	Indifferent	Clinging to tree	40.721124	-73.950797
+BROOKLYN	D	McCarren Park	22	D-22-43	Gray	White	NA	Above Ground	10	NA	Running, Chasing, Climbing	Indifferent	Playing with another squirrel in a tree	40.721026	-73.950765
+BROOKLYN	D	McCarren Park	22	D-22-44	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Foraging	Runs From	Ran very quickly	40.719376	-73.952326

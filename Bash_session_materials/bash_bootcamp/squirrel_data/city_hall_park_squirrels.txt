@@ -1,0 +1,19 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+LOWER MANHATTAN	C	City Hall Park	19	C-19-01	Gray	White	NA	Ground Plane	NA	NA	Foraging	NA	NA	40.712828	-74.005072
+LOWER MANHATTAN	C	City Hall Park	19	C-19-02	Gray	NA	NA	Above Ground	NA	NA	Climbing	NA	Chasing #3 up the tree	40.712938	-74.005152
+LOWER MANHATTAN	C	City Hall Park	19	C-19-03	Gray	NA	NA	Above Ground	NA	NA	Climbing	NA	Chasing #2 up the tree	40.712938	-74.005152
+LOWER MANHATTAN	C	City Hall Park	19	C-19-04	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Eating, Burying	Approaches	Very chubby cinnamon squirrel got peanuts from humans and buried them in leaves	40.712893	-74.005233
+LOWER MANHATTAN	C	City Hall Park	19	C-19-05	Gray	Cinnamon, White	NA	Ground Plane	NA	NA	Eating, Burying	Approaches	Couldn't find a good spot to bury theirs (peanuts from humans)	40.712893	-74.005233
+LOWER MANHATTAN	C	City Hall Park	19	C-19-06	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating	Approaches	Being fed by people	40.712922	-74.005147
+LOWER MANHATTAN	C	City Hall Park	19	C-19-07	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating	Approaches	Being fed by people	40.712922	-74.005147
+LOWER MANHATTAN	C	City Hall Park	19	C-19-08	Gray	White	Very distinct white outlines on ears and ring around tail	Ground Plane	NA	NA	Eating	Approaches	Came out to get peanut from human	40.713044	-74.005404
+LOWER MANHATTAN	C	City Hall Park	19	C-19-09	Gray	Gray	NA	Above Ground	5	NA	Climbing, Foraging	Indifferent, Runs From	Perched in a bush, watched us and scampered off to eat - very little squirrel	40.712836	-74.005662
+LOWER MANHATTAN	C	City Hall Park	19	C-19-10	Gray	White	NA	Ground Plane, Specific Location	NA	on City Hall back steps	Running	Indifferent	NA	40.712881	-74.005823
+LOWER MANHATTAN	C	City Hall Park	19	C-19-11	Gray	Cinnamon, White	NA	Ground Plane, Specific Location	NA	by back steps of City Hall	Eating, Foraging	Indifferent	Found something to eat buried in leaves and then looked for more	40.712995	-74.005963
+LOWER MANHATTAN	C	City Hall Park	19	C-19-12	Gray	White	NA	Ground Plane	NA	NA	Very carefully watching a cat	Indifferent	NA	40.713044	-74.006242
+LOWER MANHATTAN	C	City Hall Park	19	C-19-13	Gray	NA	NA	Above Ground	30	NA	Chattering	Indifferent	High up in a tree, lots of talking	40.713276	-74.006323
+LOWER MANHATTAN	C	City Hall Park	19	C-19-14	Gray	White	NA	Ground Plane	NA	NA	Eating (nuts), Foraging	Approaches, Runs From	NA	40.713339	-74.006313
+LOWER MANHATTAN	C	City Hall Park	19	C-19-15	Gray	White	NA	Ground Plane	NA	NA	Running	NA	Very active, darting around	40.713518	-74.006308
+LOWER MANHATTAN	C	City Hall Park	19	C-19-16	Gray	White	Lots of white!	Above Ground	3	NA	Climbing, Foraging	Watching	Perched on knot of tree, watching us, then started foraging	40.71312	-74.006862
+LOWER MANHATTAN	C	City Hall Park	19	C-19-17	Gray	White	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent	Successfully finding buried food	40.712872	-74.006878
+LOWER MANHATTAN	C	City Hall Park	19	C-19-18	Gray	White	NA	Ground Plane	NA	NA	Eating, Foraging	Indifferent	Rolling around in loose dirt with a "swimming" motion	40.712872	-74.006878

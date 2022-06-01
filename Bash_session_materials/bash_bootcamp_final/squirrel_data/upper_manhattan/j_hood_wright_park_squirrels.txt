@@ -1,0 +1,25 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-01	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.845749	-73.9407
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-02	Gray	Cinnamon	NA	Above Ground	2	NA	Foraging	Indifferent	NA	40.845875	-73.940808
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-03	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	NA	NA	40.845875	-73.940808
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-04	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.846088	-73.940613
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-05	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	Runs From	NA	40.846088	-73.940613
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-06	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.846088	-73.940613
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-07	Gray	Gray	NA	Ground Plane	NA	NA	NA	Runs From	NA	40.846222	-73.94094
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-08	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging, Nesting/gathering leaves	Indifferent	NA	40.846222	-73.94094
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-09	Gray	Cinnamon	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	40.846197	-73.941026
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-10	Gray	Cinnamon	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.846185	-73.940613
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-11	Gray	Cinnamon	NA	Ground Plane	NA	NA	Eating	Runs From	NA	40.846271	-73.940579
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-12	Gray	Cinnamon	NA	Above Ground, Specific Location	15	tree	Climbing	Indifferent	NA	40.846332	-73.940369
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-13	Gray	White	NA	Above Ground, Specific Location	20	tree	Sleeping	Indifferent	NA	40.846332	-73.940369
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-14	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.846332	-73.940369
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-15	Gray	White	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.846458	-73.94103
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-16	Gray	Cinnamon	NA	Above Ground, Specific Location	20	tree	Eating	Indifferent	NA	40.846417	-73.941115
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-17	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.846296	-73.941132
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-18	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.846064	-73.941497
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-19	Gray	Cinnamon	NA	Above Ground, Specific Location	2	tree	Climbing	Indifferent	NA	40.846065	-73.941498
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-20	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.847296	-73.942061
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-21	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Runs From	NA	40.847259	-73.941598
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-22	Gray	Cinnamon	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.84719	-73.941308
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-23	Gray	Cinnamon	NA	Above Ground, Specific Location	2	fence	Eating	Indifferent	NA	40.84719	-73.941308
+UPPER MANHATTAN	A	J. Hood Wright Park	2	A-02-24	Cinnamon	White	NA	Above Ground, Specific Location	20	tree	Sitting	Indifferent	NA	40.847113	-73.940937

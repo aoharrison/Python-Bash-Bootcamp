@@ -1,0 +1,60 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-01	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Runs From	Nut in mouth, very fast moving	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-02	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-03	Black	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-04	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-05	Gray	Gray	NA	Ground Plane	NA	NA	Running	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-06	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-07	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-08	Gray	Gray	NA	Above Ground	20	NA	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-09	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-10	Gray	Gray	NA	Above Ground	30	NA	Chasing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-11	Gray	Gray	NA	Above Ground	30	NA	Chasing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-12	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-13	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-14	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-15	Gray	Gray	NA	Specific Location	NA	Tree	Climbing (down tree)	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-16	Gray	Gray	NA	Specific Location	NA	Tree	Climbing (down tree)	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-17	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-18	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-19	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-20	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-21	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-22	Gray	Gray	NA	Specific Location	NA	Tree	Sitting	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-23	Gray	Gray	NA	Specific Location	NA	Tree	Sitting (in tree hole)	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-24	Gray	Gray	NA	Specific Location	NA	Tree	Lounging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-25	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-26	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-27	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-28	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-29	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-30	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-31	Gray	Gray	NA	Ground Plane	NA	NA	Running	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-32	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-33	Gray	Gray	NA	Specific Location	NA	Tree	Sitting	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-34	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Approaches	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-35	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-36	Gray	Gray	NA	Specific Location	NA	Tree	Climbing (down)	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-37	Gray	Gray	NA	Specific Location	NA	Tree	Climbing (down)	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-38	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-39	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-40	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-41	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-42	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-43	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-44	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-45	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-46	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-47	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-48	Black	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	They (#48 & #49) are fat.	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-49	Black	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	They (#48 & #49) are fat.	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-50	Gray	Gray	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-51	Black	Black	NA	Ground Plane	NA	NA	Chasing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-52	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-53	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-54	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	Indifferent	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-55	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-56	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-57	Gray	Gray	NA	Specific Location	NA	Tree	Climbing	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-58	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	NA	NA	NA	NA
+CENTRAL MANHATTAN	B	Tompkins Square Park	11	B-11-59	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	NA	NA	NA	NA

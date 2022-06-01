@@ -56,6 +56,9 @@ Let's take a quick moment to talk about vocabulary.  When navigating through the
 
 	*   **Absolute paths** provide the location of a file or directory with respect to the home directory.  Therefore, they always start from `~`, `$HOME`, or the actual path to your home directory (in my case, `/Users/ameliaharrison`).
 	*   **Relative paths** provide the location of a file or directory with respect to the directory that you are currently in.  When you are still in the home directory as we are now, the relative and absolute paths to a file or directory are the same.  However, once you change the directory, the relative path to another file or directory also changes.
+	*   *Tip:* If you ever need to know the path to your current directory, you can execute the command `pwd`, which stands for Print Working Directory.
+
+* **Standard Out** is where many commands print their output.  If output is printed directly to the screen, they are printing to standard out.
 	
 We will be using these terms and looking at examples along the way, so don't worry if you're not sure you understand them yet.
 
@@ -216,11 +219,10 @@ bash_bootcamp $ tree
     │   ├── tompkins_square_park_squirrels.txt
     │   ├── union_square_park_squirrels.txt
     │   └── washington_square_park_squirrels.txt
+    ├── city_hall_park_squirrels.txt
     ├── lower_manhattan
     │   ├── battery_park_squirrels.txt
-    │   ├── city_hall_park_squirrels.txt
     │   ├── columbus_park.txt
-    │   ├── columbus_park_squirrels.txt
     │   ├── corlears_hook_park_squirrels.txt
     │   ├── seward_park_squirrels.txt
     │   └── teardrop_park_squirrels.txt
@@ -232,10 +234,10 @@ bash_bootcamp $ tree
         ├── riverside_park_squirrels.txt
         └── st_nicholas_park_squirrels.txt
 
-6 directories, 22 files
+6 directories, 21 files
 ```
 
-Here, we can see the structure of `bash_bootcamp`, which is represented by the `.` at the top.  As we discovered earlier, `park_data` contains a single text file called `park_info.txt`.  `squirrel_data`, on the other hand is much larger.  It contains four directories, each labeled with a region in New York City.  Within each of those folders is a collection of text files that look to contain data on squirrels from 21 parks.
+Here, we can see the structure of `bash_bootcamp`, which is represented by the `.` at the top.  As we discovered earlier, `park_data` contains a single text file called `park_info.txt`.  `squirrel_data`, on the other hand is much larger.  It contains four directories, each labeled with a region in New York City.  Within each of those folders is a collection of text files that look to contain data on squirrels from 20 parks.
 
 # Conclusions
 

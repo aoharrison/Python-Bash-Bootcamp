@@ -1,0 +1,13 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-01	Gray	Gray	NA	Ground Plane	NA	NA	Running, Eating	Indifferent	Nibbling on shrubs?	40.725738	-73.972105
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-02	Black	Black	NA	Ground Plane	NA	NA	Running, Eating (peanuts)	NA	NA	40.722614	-73.972894
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-03	Gray	Gray	NA	Ground Plane, Above Ground	NA	NA	Climbing, Watching #2	Approaches	Siblings? (with #4) Playing (with #4) in fenced yard	40.72263	-73.973001
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-04	Gray	Gray	NA	Ground Plane, Above Ground	NA	NA	Running, Chasing, Eating	NA	Siblings? (with #3) Playing (with #3) in fenced yard	40.72263	-73.973109
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-05	Gray	Gray	NA	Ground Plane	NA	NA	Eating, Foraging	Approaches	NA	40.722614	-73.973033
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-06	Gray	Gray	NA	Ground Plane	NA	NA	Eating, Foraging	Approaches	NA	40.722173	-73.97272
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-07	Gray	Gray	NA	Ground Plane, Above Ground	8	NA	Climbing, Foraging	Indifferent	NA	40.719379	-73.973504
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-08	Gray	Gray	NA	Ground Plane, Above Ground	8	NA	Climbing, Foraging	Indifferent	NA	40.71935	-73.973445
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-09	Gray	Gray	NA	Above Ground, Specific Location	12	in a tree	Climbing	NA	NA	40.721923	-73.974121
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-10	Gray	Gray	NA	Ground Plane	NA	NA	Eating	Approaches	NA	40.724011	-73.97313
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-11	Gray	Gray	NA	Ground Plane	NA	NA	Climbing, Eating, Foraging	Indifferent	Was very close to a dog and hid in a tree	40.724608	-73.972841
+CENTRAL MANHATTAN	B	John V. Lindsay East River Park	12	B-12-12	Gray	Gray	NA	Ground Plane	NA	NA	Eating, Foraging	Runs From	NA	40.724774	-73.97275

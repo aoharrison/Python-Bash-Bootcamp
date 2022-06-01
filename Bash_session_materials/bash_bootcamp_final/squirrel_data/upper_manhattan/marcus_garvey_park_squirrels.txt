@@ -1,0 +1,35 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-01	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804912	-73.943735
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-02	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804912	-73.943736
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-03	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804913	-73.943735
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-04	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804915	-73.943737
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-05	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804916	-73.943735
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-06	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804914	-73.943736
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-07	Gray	Gray	NA	Above Ground	40	NA	Climbing	Indifferent	HAWK. HAAAAAWK. All in 1 tree.	40.804917	-73.943737
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-08	Black	Black	NA	Above Ground	25	NA	Climbing	NA	Defending the tree from the HAAAAWK. The bravest.	40.804912	-73.943738
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-09	Gray	Gray	NA	Above Ground, Specific Location	6	small trees	Chasing, Climbing, Eating	Indifferent	2 were chasing each other through some short trees, others just sat	40.804701	-73.944118
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-10	Gray	Gray	NA	Above Ground, Specific Location	6	small trees	Chasing, Climbing, Eating	Indifferent	2 were chasing each other through some short trees, others just sat	40.804746	-73.94374
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-11	Gray	Gray	NA	Above Ground, Specific Location	6	small trees	Chasing, Climbing, Eating	Indifferent	2 were chasing each other through some short trees, others just sat	40.804912	-73.94408
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-12	Gray	Gray	NA	Above Ground, Specific Location	6	small trees	Chasing, Climbing, Eating	Indifferent	2 were chasing each other through some short trees, others just sat	40.804729	-73.944053
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-13	Gray	Gray	NA	Above Ground	4...3...2...1	NA	Climbing	NA	Slid down a signpost while spinning. Other squirrels flung leaves at it, cheering.	40.804713	-73.944032
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-14	Gray	Gray	NA	Above Ground	15	NA	Climbing, Eating	NA	Too far to observe human interactions	40.804613	-73.943829
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-15	Gray	Gray	NA	Above Ground	15	NA	Climbing, Eating	NA	Too far to observe human interactions	40.804564	-73.943824
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-16	Gray	Gray	NA	Ground Plane	NA	NA	Running	NA	Ran up the the 3rd baseline of a Little League field. Wrong way!	40.804253	-73.944121
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-17	Gray	Gray	NA	Ground Plane	NA	NA	Running	NA	Scampered across path	40.803758	-73.94433
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-18	Gray	Gray	NA	Above Ground	4	NA	Sitting, shouting	Indifferent	NA	40.803616	-73.944464
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-19	Gray	Gray	NA	Above Ground	4	NA	Sitting, shouting	Indifferent	NA	40.803413	-73.944207
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-20	Gray	Gray	NA	Above Ground	4	NA	Sitting, shouting	Indifferent	NA	40.80338	-73.944148
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-21	Gray	Gray	NA	Above Ground	4	NA	Sitting, shouting	Indifferent	NA	40.803392	-73.944228
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-22	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803794	-73.944003
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-23	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803795	-73.944003
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-24	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803794	-73.944004
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-25	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803794	-73.944005
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-26	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803796	-73.944003
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-27	Gray	Gray	NA	Above Ground	NA	NA	Defending tree, shouting	Indifferent, Preoccupied by HAAWK	HAWK. Same scene as 1. All gray.	40.803795	-73.944004
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-28	Gray	Gray	NA	Above Ground	3	NA	Eating	Indifferent	NA	40.80362	-73.944067
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-29	Gray	Gray	NA	Above Ground	6	NA	Chasing, Climbing	Runs From	NA	40.80352	-73.943629
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-30	Gray	Gray	NA	Above Ground	6	NA	Chasing, Climbing	Runs From	NA	40.803507	-73.943661
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-31	Gray	Gray	NA	Above Ground	25	NA	Climbing	NA	NA	40.803981	-73.943327
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-32	Gray	Gray	NA	Above Ground	25	NA	Climbing	NA	NA	40.804123	-73.943402
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-33	Black	Cinnamon	Chestnut Brown?? May be black with sunlight??	Above Ground	25	NA	Cleaning	NA	Cleaning himself like a cat would.	40.803981	-73.943273
+UPPER MANHATTAN	A	Marcus Garvey Park	6	A-06-34	Gray	Gray	NA	Above Ground	4	NA	Climbing	Runs From	NA	40.804878	-73.942781

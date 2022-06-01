@@ -1,0 +1,16 @@
+Area.Name	Area.ID	Park.Name	Park.ID	Squirrel.ID	Primary.Fur.Color	Highlights.in.Fur.Color	Color.Notes	Location	Above.Ground..Height.in.Feet.	Specific.Location	Activities	Interactions.with.Humans	Other.Notes.or.Observations	Squirrel.Latitude..DD.DDDDDD.	Squirrel.Longitude...DD.DDDDDD.
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-01	Gray	White	NA	Above Ground	NA	NA	Climbing	Indifferent	Jumping between	40.817593	-73.948855
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-02	Black	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	Chasing #3	40.817719	-73.948855
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-03	Gray	White	NA	Ground Plane	NA	NA	Eating	Indifferent	Being chased by #2	40.817719	-73.948914
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-04	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.817711	-73.949118
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-05	Gray	White	NA	Ground Plane	NA	NA	Climbing, Eating	Indifferent	NA	40.817569	-73.948931
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-06	Gray	Gray	NA	Above Ground	NA	NA	Chasing, Climbing	Indifferent	NA	40.817544	-73.949016
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-07	Gray	Gray	NA	Above Ground	NA	NA	Chasing, Climbing	Indifferent	NA	40.817544	-73.949016
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-08	Gray	White	NA	Ground Plane	NA	NA	Running	Runs From	NA	40.817479	-73.949006
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-09	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	Wooded area	40.816685	-73.949689
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-10	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	Wooded area	40.816677	-73.949549
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-11	Black	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	Wooded area	40.816555	-73.949609
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-12	Gray	White	NA	Ground Plane	NA	NA	Foraging	Indifferent	Wooded area - would look but not fully approach	40.816506	-73.949587
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-13	Gray	White	NA	Ground Plane	NA	NA	Running	Indifferent	NA	40.816425	-73.949474
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-14	Gray	Gray	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.818308	-73.948952
+UPPER MANHATTAN	A	St. Nicholas Park	4	A-04-15	Gray	Black	NA	Ground Plane	NA	NA	Foraging	Indifferent	NA	40.818263	-73.948909
