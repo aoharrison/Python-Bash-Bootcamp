@@ -9,8 +9,9 @@ This bootcamp is meant to prepare participants for the "Practical AI/ML for Comp
 Amelia O. Harrison, Course Director
 
 Manju Anandakrishnan, Teaching Assistant
-Michael St. Antoine, Teaching Assistant
+
 Vanessa Richards, Teaching Assistant
+
 Rene Hoover, Teaching Assistant
 
 # Sponsors
