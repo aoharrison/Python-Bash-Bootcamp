@@ -8,13 +8,13 @@ Please scroll to find your operating system for specific setup instructions.
 
 Windows does not come automatically equipped to run bash, but there are a couple of options to get it running on your machine.
 
-**Option 1:** Windows Subsystem for Linux
-
-If you are running Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11, Windows Subsystem for Linux (WSL) can be installed on your computer by following the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install).  Note that there is no need to change the default Linux distribution.
-
-**Option 2:** Git for Windows
+**Option 1:** Git for Windows
 
 In addition to providing you with access to Git, Git for Windows also comes with a Bash emulation. You can download the installer [here](https://gitforwindows.org) and there are further instructions [here](https://carpentries.github.io/workshop-template/#shell) if you need them.
+
+**Option 2:** Windows Subsystem for Linux
+
+If you are running Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11, Windows Subsystem for Linux (WSL) can be installed on your computer by following the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install).  Note that there is no need to change the default Linux distribution.
 
 
 ## MacOS
